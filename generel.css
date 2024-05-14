@@ -1,0 +1,48 @@
+dotlottie-player {
+  max-width: 100%;
+}
+body {
+  background-color: black;
+}
+img {
+  max-width: 100%;
+}
+header ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+h1 {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 800;
+  font-style: normal;
+  color: white;
+}
+h2,
+h3 {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 300;
+  font-style: normal;
+  color: white;
+}
+p {
+  font-family: "Exo 2", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  color: white;
+  max-width: 384px;
+}
+video {
+  max-width: 100%;
+}
+iframe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 8/3.5;
+}
